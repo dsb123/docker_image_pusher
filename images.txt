@@ -6,12 +6,12 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 openeuler/openeuler:20.03-lts
 redis
-scratch
+alpine
+busybox
 mongo
 mysql
 ubuntu
 openjdk
 centos:7.9
-alpine
 mcr.microsoft.com/dotnet/sdk:8.0
 mcr.microsoft.com/dotnet/aspnet:8.0
