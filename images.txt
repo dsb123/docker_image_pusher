@@ -4,3 +4,14 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+openeuler/openeuler:20.03-lts
+redis
+scratch
+mongo
+mysql
+ubuntu
+openjdk
+centos:7.9
+alpine
+mcr.microsoft.com/dotnet/sdk:8.0
+mcr.microsoft.com/dotnet/aspnet:8.0
